@@ -1,4 +1,4 @@
-# JavaScript Fundamentals   
+# JavaScript Fundamentals     
 
 **Original Source:** Harvard University  
 **Learning Platform:** edX  
